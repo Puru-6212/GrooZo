@@ -1,7 +1,5 @@
 # Privacy Policy for Grozo
 
-**Effective Date:** 30-09-2024
-
 At Grozo, we respect your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data.
 
 ## Information We Collect
